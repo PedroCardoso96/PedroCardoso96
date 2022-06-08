@@ -2,7 +2,7 @@
  
 - 🌱 I’m currently learning HTML, CSS and JS
 - 🤔 I’m looking for help with Front-End
-- 📫 How to reach me: pedrohfsc96.dev@gmail.com
+- 📫 How to reach me: pedrohfsc96@gmail.com
 
 
 <div>
