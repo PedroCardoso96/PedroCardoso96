@@ -5,7 +5,7 @@
 - 📫 How to reach me: pedrohfsc96@gmail.com
 
 
-<div>
+<!-- <div>
   <a href="https://github.com/PedroCardoso96">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCardoso96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCardoso96&layout=compact&langs_count=7&theme=dark"/>
@@ -16,7 +16,7 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-</div>
+</div> -->
   
   ##
   
