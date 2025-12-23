@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-- 🌱 I’m currently learning HTML, CSS, JS and React
+- 🌱 I’m currently learning TS, React and PHP
 - 🤔 I’m looking for help with Front-End
 - 📫 How to reach me: pedrohfsc96@gmail.com
 
