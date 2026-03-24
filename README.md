@@ -19,7 +19,7 @@
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Pedro-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Pedro-POSTGRESSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dpostgressql/postgressql-original.svg">
+  <img align="center" alt="Pedro-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dpostgresql/postgresql-original.svg">
 </div> 
   
   ##
