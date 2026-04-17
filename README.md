@@ -26,7 +26,7 @@
   <img align="center" alt="Pedro-LARAVEL" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Pedro-NGINX" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="Pedro-PRISMA" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-   <img align="center" alt="Pedro-PRISMA" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unreal/unreal-original.svg">
+   <img align="center" alt="Pedro-UNREAL" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
 </div> 
   
   ##
